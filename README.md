@@ -1,16 +1,16 @@
-# Sales-Analysis-Amazon-Products
- Amazon Sales Analytics Dashboard
+# 🛒 Amazon Sales Analytics Dashboard
+
 A dynamic and interactive Power BI dashboard developed to analyze Amazon product sales, customer reviews, and category performance. Designed for data-driven business decisions through detailed visual storytelling.
 
-📝 1. Project Title / Headline
-📦 Amazon Insights: Product Sales & Review Analysis Dashboard
+## 1. Project Title / Headline
+**📦 Amazon Insights: Product Sales & Review Analysis Dashboard**  
 
 An interactive dashboard built using Power BI that visualizes product-wise sales, category performance, customer reviews, and time-based sales trends. It supports stakeholders in identifying best-selling items and revenue-driving categories across the Amazon marketplace.
 
-🎯 2. Short Description / Purpose
+## 2. Short Description / Purpose
 The Amazon Insights Dashboard is a visually rich and performance-focused Power BI report created to explore product-level sales and customer behavior data. The dashboard enables teams to track KPIs like revenue, quantity sold, and reviews across product categories and time intervals — helping eCommerce teams, analysts, and sellers make better business decisions.
 
-🛠️ 3. Tech Stack
+## 3. Tech Stack
 The dashboard was developed using the following tools and technologies:
 
 📊 Power BI Desktop – Used for data modeling and dashboard creation
@@ -25,7 +25,7 @@ The dashboard was developed using the following tools and technologies:
 
 📄 Excel Dataset – Source file: Amazon_Combined_Data.xlsx
 
-📚 4. Data Source
+## 4. Data Source
 Source: Internal Dataset – Amazon_Combined_Data.xlsx
 
 Structure: The dataset contains information on:
@@ -40,15 +40,15 @@ Time-series sales (monthly & weekly)
 
 Quantity sold
 
-🌟 5. Features / Highlights
-• Business Problem
+## 5. Features / Highlights
+**### • Business Problem **
 eCommerce platforms often lack centralized insights into how different product categories, items, or timelines impact revenue and customer engagement. Decision-makers struggle with questions like:
 
 “Which product category drives the most revenue?”
 “What are the top-reviewed products?”
 “Which month saw the highest sales?”
 
-• Goal of the Dashboard
+### • Goal of the Dashboard 
 To create a user-friendly visual tool that:
 
 Tracks overall sales, customer engagement, and category performance
@@ -59,7 +59,7 @@ Enables slicing data by product category and quarter
 
 Supports performance-based decision making for inventory and marketing teams
 
-• Walkthrough of Key Visuals
+### • Key Visuals
 Key KPIs (Top Panel):
 
 YTD Sales: $2.18M
@@ -102,6 +102,6 @@ WOLVERINE Film2Digital: 0.14M
 
 Filter Panel (Left Sidebar):
 Dynamic slicers for Product Category and Quarter selection – changes visuals in real-time.
-6. Screenshots 
+### 6. Screenshots 
 Show what the dashboard looks like. - ![Alt text](https://github.com/ShwetaKumari16/Sales-Analysis-Amazon-Products/blob/main/Dashboard.png)
-Example: ![Dashboard Previewview](https://github.com/ShwetaKumari16/Sales-Analysis-Amazon-Products/blob/main/Dashboard.png)
+
