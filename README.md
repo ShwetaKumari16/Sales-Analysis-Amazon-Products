@@ -103,4 +103,5 @@ WOLVERINE Film2Digital: 0.14M
 Filter Panel (Left Sidebar):
 Dynamic slicers for Product Category and Quarter selection – changes visuals in real-time.
 6. Screenshots 
-Show what the dashboard looks like. - (https://github.com/ShwetaKumari16/Sales-Analysis-Amazon-Products/blob/main/Dashboard.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/ShwetaKumari16/Sales-Analysis-Amazon-Products/blob/main/Dashboard.png)
+Example: ![Dashboard Previewview](https://github.com/ShwetaKumari16/Sales-Analysis-Amazon-Products/blob/main/Dashboard.png)
